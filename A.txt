@@ -1,2 +1,6 @@
 Aprendendo fluxo de recebimento.
 Mais alguma coisa.
+
+Eviando a funcionaldade 
+de um 
+arquivo X
